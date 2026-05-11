@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Tests\Command;
 
 use App\Command\InitCommand;
-use ChangHorizon\DirectoryTree\DirectoryTreeViewer;
+use ChangHorizon\DirectoryTree\Viewer\DirectoryTreeViewer;
 use ChangHorizon\ZipMover\ZipMover;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;

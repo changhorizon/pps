@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Command;
 
-use ChangHorizon\DirectoryTree\DirectoryTreeViewer;
+use ChangHorizon\DirectoryTree\Viewer\DirectoryTreeViewer;
 use ChangHorizon\ZipMover\ZipMover;
 use FilesystemIterator;
 use InvalidArgumentException;
