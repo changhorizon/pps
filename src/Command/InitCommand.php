@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace App\Command;
 
-use FilesystemIterator;
 use ChangHorizon\DirectoryTree\DirectoryTreeViewer;
 use ChangHorizon\ZipMover\ZipMover;
+use FilesystemIterator;
 use InvalidArgumentException;
 use Phar;
 use RecursiveDirectoryIterator;
