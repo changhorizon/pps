@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Tests\Command;
 
 use App\Command\InitCommand;
-use Hizpark\DirectoryTree\DirectoryTreeViewer;
-use Hizpark\ZipMover\ZipMover;
+use ChangHorizon\DirectoryTree\DirectoryTreeViewer;
+use ChangHorizon\ZipMover\ZipMover;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 use Symfony\Component\Console\Application;

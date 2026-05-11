@@ -156,4 +156,4 @@ jobs:
             pps.phar.sha256
           body: |
             🎉 Release ${{ github.ref_name }}
-            [📖 README Documentation](https://github.com/hizpark/pps#readme)
+            [📖 README Documentation](https://github.com/changhorizon/pps#readme)

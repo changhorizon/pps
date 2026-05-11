@@ -1,5 +1,5 @@
 {
-    "name": "hizpark/pps",
+    "name": "changhorizon/pps",
     "description": "PHP Project Scaffold – minimal and ready to code",
     "keywords": [],
     "type": "project",
@@ -15,8 +15,8 @@
         "symfony/console": "^7.2",
         "symfony/filesystem": "^7.2",
         "symfony/process": "^7.2",
-        "hizpark/zip-mover": "^1.0",
-        "hizpark/directory-tree": "^1.0"
+        "changhorizon/zip-mover": "^1.1",
+        "changhorizon/directory-tree": "^1.1"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.75",

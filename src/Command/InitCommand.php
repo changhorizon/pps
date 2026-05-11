@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace App\Command;
 
 use FilesystemIterator;
-use Hizpark\DirectoryTree\DirectoryTreeViewer;
-use Hizpark\ZipMover\ZipMover;
+use ChangHorizon\DirectoryTree\DirectoryTreeViewer;
+use ChangHorizon\ZipMover\ZipMover;
 use InvalidArgumentException;
 use Phar;
 use RecursiveDirectoryIterator;
