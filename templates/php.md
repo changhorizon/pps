@@ -44,7 +44,7 @@ php
 
 1. 克隆`pps`：
    ```bash
-   git clone https://github.com/hizpark/pps.git
+   git clone https://github.com/changhorizon/pps.git
    ```
 
 2. 拷贝模板目录：
@@ -54,9 +54,9 @@ php
 
 ### 使用 `pps` 脚手架（推荐）
 
-1. 安装 [`pps`](https://github.com/hizpark/pps)：
+1. 安装 [`pps`](https://github.com/changhorizon/pps)：
    ```bash
-   wget https://github.com/hizpark/pps/releases/latest/download/pps.phar
+   wget https://github.com/changhorizon/pps/releases/latest/download/pps.phar
    chmod +x pps.phar
    ```
 
@@ -65,7 +65,7 @@ php
    ./pps.phar init new-project --template=php
    ```
 
-用法详情请参见：[pps-doc](https://github.com/hizpark/pps#readme)
+用法详情请参见：[pps-doc](https://github.com/changhorizon/pps#readme)
 
 ## 🧩 常用占位符
 

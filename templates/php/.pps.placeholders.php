@@ -15,7 +15,7 @@ declare(strict_types=1);
  *   "name": "pps.vendor/pps.repo_name"
  *
  * Replace with:
- *   "name": "hizpark/example-project"
+ *   "name": "changhorizon/example-project"
  *
  * Note:
  * - Double backslashes (\\) are required in namespaces.
@@ -24,7 +24,7 @@ declare(strict_types=1);
 
 return [
     // ─── composer.json | README.md | .github/workflows/ci.yml ───────
-    'pps.vendor'               => '', // e.g., 'hizpark'
+    'pps.vendor'               => '', // e.g., 'changhorizon'
     'pps.repo_name'            => '', // e.g., 'example-project'
 
     // ─── composer.json ──────────────────────────────────────────────
@@ -33,8 +33,8 @@ return [
     'pps.repo_php_version'     => '', // e.g., '8.2'
     'pps.repo#author.name'     => '', // e.g., 'Harper Jang'
     'pps.repo@author.email'    => '', // e.g., 'harper.jang@outlook.com'
-    'pps.repo_src_namespace'   => '', // e.g., 'Hizpark\\ExampleProject'
-    'pps.repo_tests_namespace' => '', // e.g., 'Hizpark\\ExampleProject\\Tests'
+    'pps.repo_src_namespace'   => '', // e.g., 'ChangHorizon\\ExampleProject'
+    'pps.repo_tests_namespace' => '', // e.g., 'ChangHorizon\\ExampleProject\\Tests'
 
     // ─── phpunit.xml.dist ───────────────────────────────────────────
     'pps.testsuite_name'       => '', // e.g., 'ExampleProject'
@@ -45,7 +45,7 @@ return [
 
     // ─── LICENSE ────────────────────────────────────────────────────
     'pps.license_year'         => '', // e.g., '2025'
-    'pps.license_owner'        => '', // e.g., 'hizpark'
+    'pps.license_owner'        => '', // e.g., 'changhorizon'
 
     // ─── README.md ──────────────────────────────────────────────────
     'pps.doc_title'            => '', // e.g., 'Example Project'
